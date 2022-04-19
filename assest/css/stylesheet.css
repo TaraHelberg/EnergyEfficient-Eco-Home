@@ -8,6 +8,7 @@ body {
     padding: 0px;
 }
 
+/*style for header*/
 header {
   background-color: #c0c0c0;
   float: left;
@@ -22,6 +23,22 @@ header {
 
   h2 {
       text-align: center;
-      margin-top: 0;
+  }
 
+  /*footer*/
+
+  footer {
+    background-color: #c0c0c0;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    border: solid 2px ;
+  }
+
+ .footer {
+    text-align: center;
+    list-style: none;
+    padding: 0 20px 0 20px;
+    color: black;
+    text: size 20px;
   }

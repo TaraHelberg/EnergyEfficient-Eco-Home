@@ -4,4 +4,24 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
+    margin: 0px;
+    padding: 0px;
 }
+
+header {
+  background-color: #c0c0c0;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+  }
+
+  h1 {
+      color: black;
+      text-align: left;
+  }
+
+  h2 {
+      text-align: center;
+      margin-top: 0;
+
+  }
